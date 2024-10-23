@@ -30,5 +30,8 @@
 /*.run.xml 
 /*.synctex.gz 
 
+# VS Code workspace related
+*.code-workspace
+
 # Ignore auto-generated directories 
 **/auto/**
