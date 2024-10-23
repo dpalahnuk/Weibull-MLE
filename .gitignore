@@ -1,0 +1,34 @@
+# Core latex/pdflatex auxiliary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.fls
+*.fdb_latexmk
+*.cb
+*.cb2
+*.lb
+
+# Intermediate documents
+*.dvi
+*.xdv
+
+# Bibliography auxiliary files
+*.acn
+*.acr
+*.alg
+*.ilg
+*.ind
+
+# Other temporary files 
+*~ 
+/*.bak 
+/*.run.xml 
+/*.synctex.gz 
+
+# Ignore auto-generated directories 
+**/auto/**
