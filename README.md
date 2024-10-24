@@ -1,6 +1,6 @@
 # Weibull PDF - non-normal MLE and JMP Ppk ANOVA 
 
-Weibull PDF (Proabability Density) -> non-normal MLE and JMP Ppk ANOVA 
+Weibull PDF (Probability Density) -> non-normal MLE and JMP Ppk ANOVA 
 
 ## Description 
 
